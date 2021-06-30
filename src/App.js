@@ -1,6 +1,5 @@
 import { Navbar, Container, Nav, NavDropdown, Jumbotron, Button } from 'react-bootstrap';
 import React, { useContext, useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Data from './data.js';
 import Detail from './Detail.js';
