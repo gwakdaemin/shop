@@ -7,6 +7,17 @@
   pointer-events: none;
 }
 
+.background {
+  color: #ffffff;
+  background-image: url('./assets/shoes-5867518_1920.jpg');
+  background-size: cover;
+}
+
+.btn.btn-danger:last-child {
+  margin-left: 5px;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
